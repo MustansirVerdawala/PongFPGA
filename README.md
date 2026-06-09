@@ -10,7 +10,7 @@ No software, operating system, frame buffer, or processor is required—the enti
 
 ## 🎥 Demo
 
-[Watch Demo Video](assets/demo.mp4)
+![Pong Demo](assets/demo.gif)
 
 ---
 
