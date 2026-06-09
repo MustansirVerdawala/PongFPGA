@@ -1,0 +1,8 @@
+Release 13.4 Drc O.87xd (lin64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Tue Nov 11 17:53:36 2025
+
+drc -z vga_controller.ncd vga_controller.pcf
+
+DRC detected 0 errors and 0 warnings.

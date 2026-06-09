@@ -1,0 +1,8 @@
+V3 3
+FL /home/student1/mbverdaw/COE758/Project2/vga_controller.vhd 2025/11/11.17:52:43 O.87xd
+EN work/vga_controller 1762901569 \
+      FL /home/student1/mbverdaw/COE758/Project2/vga_controller.vhd \
+      PB ieee/std_logic_1164 1325952872 PB ieee/NUMERIC_STD 1325952877
+AR work/vga_controller/Behavior 1762901570 \
+      FL /home/student1/mbverdaw/COE758/Project2/vga_controller.vhd \
+      EN work/vga_controller 1762901569
